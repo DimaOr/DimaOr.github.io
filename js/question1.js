@@ -8,7 +8,7 @@
 //
 /*
 Answer
- This function send to the server some information without reloading page and return object or execute callback function it depends of value isAsync.
+ This function sent to the server some information without reloading page and return object or execute callback function it depends of value isAsync.
  If value isAsync - true, function will be work asynchronous and execute callback function, if isAsync - false function will be return response object.
  Before get request we preparing data and adding to the value request (which will be url key on ajax request object) value time.
  When status will be success, function get response data.
