@@ -1,0 +1,25 @@
+.box {
+  height: 210px;
+  overflow: auto;
+}
+
+.item {
+  display: inline-block;
+  text-align: center;
+
+}
+
+.item:hover {
+  background-color: #2aabd2;
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+
+}
+
